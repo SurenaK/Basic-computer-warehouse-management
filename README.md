@@ -28,7 +28,9 @@ A desktop application for managing computer parts inventory — built with Pytho
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here after running the app)*
+<img width="414" height="510" alt="image" src="https://github.com/user-attachments/assets/b7a2ebd7-7bfd-4a60-9150-800a5f202399" />
+<img width="1365" height="722" alt="image" src="https://github.com/user-attachments/assets/f8efcc9c-026f-422b-8ba5-7cadcfa03e9f" />
+
 
 ---
 
